@@ -1,34 +1,37 @@
 <svg width="261" height="66" viewBox="0 0 261 66" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<text
-x="43.5"
-y="33"
-font-family="sans-serif"
-font-weight="bold"
-font-size="64"
-fill="white"
-text-anchor="middle"
-dominant-baseline="middle">
-A
-</text>
+  <symbol id="logo-symbol-wordmark" viewBox="0 0 261 66">
+    <text
+      x="43.5"
+      y="33"
+      font-family="sans-serif"
+      font-weight="bold"
+      font-size="64"
+      fill="white"
+      text-anchor="middle"
+      dominant-baseline="middle">
+      A
+    </text>
 
-<g transform="rotate(180 130.5 33)">
-<path
-d="M130.5 33 c0 2.1 -2.9 1 -3.6 -0.3 c-1.6 -2.9 1 -6.2 3.9 -7 c4.9 -1.3 9.6 2.9 10.4 7.8 c1 7 -4.7 13 -11.4 13.8 c-9.1 1 -16.6 -6.5 -17.2 -15.3 c-0.8 -10.9 8.3 -20 19 -20.5 c13 -0.8 23.4 10.1 23.9 22.9 c0.5 14.8 -12 27 -26.5 27.3"
-stroke="#9370DB"
-stroke-width="7.5"
-fill="none"
-stroke-linecap="round"/>
-</g>
+    <g transform="rotate(180 130.5 33)">
+      <path
+        d="M130.5 33 c0 2.1 -2.9 1 -3.6 -0.3 c-1.6 -2.9 1 -6.2 3.9 -7 c4.9 -1.3 9.6 2.9 10.4 7.8 c1 7 -4.7 13 -11.4 13.8 c-9.1 1 -16.6 -6.5 -17.2 -15.3 c-0.8 -10.9 8.3 -20 19 -20.5 c13 -0.8 23.4 10.1 23.9 22.9 c0.5 14.8 -12 27 -26.5 27.3"
+        stroke="#9370DB"
+        stroke-width="7.5"
+        fill="none"
+        stroke-linecap="round"/>
+    </g>
 
-<text
-x="217.5"
-y="33"
-font-family="sans-serif"
-font-weight="bold"
-font-size="64"
-fill="white"
-text-anchor="middle"
-dominant-baseline="middle">
-N
-</text>
+    <text
+      x="217.5"
+      y="33"
+      font-family="sans-serif"
+      font-weight="bold"
+      font-size="64"
+      fill="white"
+      text-anchor="middle"
+      dominant-baseline="middle">
+      N
+    </text>
+  </symbol>
+  <use xlink:href="#logo-symbol-wordmark"/>
 </svg>
