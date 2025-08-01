@@ -10,6 +10,9 @@
 
 set -e
 
+SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
+cd ..
+
 # --- Step 1: Load secrets from AWS Secrets Manager ---
 echo "🔐 Loading secrets from AWS Secrets Manager..."
 
